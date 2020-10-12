@@ -1,0 +1,2 @@
+# Titanic_Survival_Logistic_Regression_Python
+Titanic survival prediction with logistic regression model
